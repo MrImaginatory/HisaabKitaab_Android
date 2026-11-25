@@ -1,0 +1,8 @@
+{
+  "name": "HisaabKitaab",
+  "description": "100% local-first offline personal finance & ledger manager with web-compatible SQLite .db import/export, PDF/Excel/CSV statements, and Material 3 Liquid Glass UI.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}

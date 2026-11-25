@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">HisaabKitaab</string>
+    <string name="app_tagline">Offline Personal Finance Ledger</string>
+
+    <!-- Navigation -->
+    <string name="nav_dashboard">Dashboard</string>
+    <string name="nav_transactions">Transactions</string>
+    <string name="nav_accounts">Accounts</string>
+    <string name="nav_statement">Statement</string>
+    <string name="nav_manage">Manage</string>
+    <string name="nav_categories">Categories</string>
+    <string name="nav_payment_mediums">Payment Mediums</string>
+    <string name="nav_profile">Profile</string>
+    <string name="nav_settings">Settings</string>
+    <string name="nav_connect">Developer Connect</string>
+
+    <!-- Onboarding -->
+    <string name="onboarding_title">Choose your Hisaab database</string>
+    <string name="onboarding_subtitle">100% local SQLite storage on your device. Compatible with HisaabKitaab web .db backups.</string>
+    <string name="action_reconnect_db">Reconnect Last Database</string>
+    <string name="action_open_db">Open Existing .db File</string>
+    <string name="action_create_db">Create Blank Database</string>
+
+    <!-- Common Actions -->
+    <string name="action_save">Save</string>
+    <string name="action_cancel">Cancel</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_edit">Edit</string>
+    <string name="action_add">Add</string>
+    <string name="action_close">Close</string>
+    <string name="action_export">Export</string>
+    <string name="action_import">Import</string>
+    <string name="action_share">Share</string>
+    <string name="action_search">Search</string>
+
+    <!-- Accessibility -->
+    <string name="cd_app_logo">HisaabKitaab Logo</string>
+    <string name="cd_settings">Open Settings</string>
+    <string name="cd_add_transaction">Add Transaction</string>
+    <string name="cd_close">Close dialog</string>
+    <string name="cd_back">Navigate back</string>
+    <string name="cd_more_options">More options</string>
+
+    <!-- UPI Receipt Scanner -->
+    <string name="share_upi_receipt_label">Add UPI Transaction</string>
+    <string name="action_scan_upi_receipt">Scan UPI Screenshot</string>
+    <string name="scanning_upi_receipt">Scanning UPI receipt offline…</string>
+</resources>
